@@ -1,5 +1,7 @@
 # Fake Reddit Prediction
 
+Kaggle Link: https://www.kaggle.com/competitions/cisc-873-dm-w23-a3/overview
+
 ## Reddit Fake Post Detection (by Looking Only at the Title)
 
 ![Uploading image.png…](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4409738%2F4f5fda2da319a6815c68c937f7474d4c%2Fmememe_3292829e1a7b6e4f95de73cc5e318807-1.jpg?generation=1604889270371012&alt=media)
